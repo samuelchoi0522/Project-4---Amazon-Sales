@@ -21,6 +21,7 @@ int main(){
     const char *foname = "\"fourthItem\": {";
     const char *finame = "\"fifthItem\": {";
 
+    cout << "hello" << endl;
 
     while(!infile.eof()){
 
