@@ -22,7 +22,7 @@ int main(){
     const char *finame = "\"fifthItem\": {";
 
     cout << "hello" << endl;
-
+    cout << "Testing git: " << endl;
     while(!infile.eof()){
 
         int index = 0;
